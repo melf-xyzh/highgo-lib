@@ -267,7 +267,7 @@
 //	s.A = []uint32{}
 //}
 
-package pq
+package highgo
 
 import (
 	"encoding/binary"

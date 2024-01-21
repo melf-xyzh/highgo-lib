@@ -1,4 +1,4 @@
-package pq
+package highgo
 
 // NewGSSFunc creates a GSS authentication provider, for use with
 // RegisterGSSProvider.

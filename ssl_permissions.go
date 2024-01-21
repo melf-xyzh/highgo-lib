@@ -1,6 +1,7 @@
+//go:build !windows
 // +build !windows
 
-package pq
+package highgo
 
 import "os"
 

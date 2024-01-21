@@ -1,6 +1,7 @@
+//go:build go1.9
 // +build go1.9
 
-package pq
+package highgo
 
 import (
 	"context"

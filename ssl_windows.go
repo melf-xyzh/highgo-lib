@@ -1,6 +1,7 @@
+//go:build windows
 // +build windows
 
-package pq
+package highgo
 
 // sslKeyPermissions checks the permissions on user-supplied ssl key files.
 // The key file should have very little access.

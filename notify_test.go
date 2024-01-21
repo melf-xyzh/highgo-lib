@@ -1,4 +1,4 @@
-package pq
+package highgo
 
 import (
 	"database/sql"

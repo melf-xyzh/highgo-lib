@@ -1,4 +1,4 @@
-package pq
+package highgo
 
 // This file contains SSL tests
 
